@@ -82,12 +82,8 @@ long-term strategic product vision.\>
 
 ### 1.5 References
 
-\<List any other documents or Web addresses to which this SRS refers.
-These may include user interface style guides, contracts, standards,
-system requirements specifications, use case documents, or a vision and
-scope document. Provide enough information so that the reader could
-access a copy of each reference, including title, author, version
-number, date, and source or location.\>
+1) Wikipedia
+2) www.w3schools.com
 
 ## 2. Overall Description
 Number of players\
