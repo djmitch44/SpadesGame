@@ -51,7 +51,7 @@ Appendix C: [Issues List](#appendix-c-issues-list)
 
 
 ## 1. Introduction
-Invented in the 1930s Spade
+Invented in the United states 
 
 
 ### 1.1 Purpose
@@ -68,12 +68,7 @@ whether every requirement statement is to have its own priority.\>
 
 ### 1.3 Intended Audience and Reading Suggestions
 
-\<Describe the different types of reader that the document is intended
-for, such as developers, project managers, marketing staff, users,
-testers, and documentation writers. Describe what the rest of this SRS
-contains and how it is organized. Suggest a sequence for reading the
-document, beginning with the overview sections and proceeding through
-the sections that are most pertinent to each reader type.\>
+The target audience for “Spades multi” is intended for but not limited to low-to-upper class consumers whose age range from (13+)
 
 ### 1.4 Project Scope
 
