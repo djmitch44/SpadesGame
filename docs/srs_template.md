@@ -51,7 +51,7 @@ Appendix C: [Issues List](#appendix-c-issues-list)
 
 
 ## 1. Introduction
-Invented in the United states 
+Invented in the United States in the 1930s, Spades remains one of the most popular trick-taking card games. With this game 
 
 
 ### 1.1 Purpose
