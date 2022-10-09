@@ -100,6 +100,7 @@ Rank of cards\
 Highest to lowest: Ace, King, Queen, Jack, 10, 9, 8, 7, 6, 5, 4, 3, 2.\
 Object of the game\
 To score points (generally 500). Points are accrued by winning at least the number of tricks bid in each hand, and are lost by failing to take at least that many, or in some cases by taking too many.\
+
 ### 2.1 Product Perspective
 
 \<Describe the context and origin of the product being specified in this
