@@ -1,5 +1,5 @@
 
-# Spades
+# Spades Multi 
 ### Software Requirements Specification
    Version 1.0 approved\
    Prepared by:\
