@@ -90,7 +90,16 @@ access a copy of each reference, including title, author, version
 number, date, and source or location.\>
 
 ## 2. Overall Description
-
+Number of players\
+Two or more; the game is most commonly played with four players in pairs ("Partnership spades")\
+The deck\
+Standard 52-card deck. Spades may also be played with one or two Jokers or with predetermined cards removed. With playing with six or more players, a second deck is often used.\
+Rank of suit\
+Spades are always trump. Other suits have no intrinsic value during play, but a card of the suit led in the current trick will beat a card of any other suit except a Spade. If a tiebreaker is needed in a draw for deal, the most common suit order in Bridge from low to high is ♣ ♦ ♥ ♠.\
+Rank of cards\
+Highest to lowest: Ace, King, Queen, Jack, 10, 9, 8, 7, 6, 5, 4, 3, 2.\
+Object of the game\
+To score points (generally 500). Points are accrued by winning at least the number of tricks bid in each hand, and are lost by failing to take at least that many, or in some cases by taking too many.\
 ### 2.1 Product Perspective
 
 \<Describe the context and origin of the product being specified in this
