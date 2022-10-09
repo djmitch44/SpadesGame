@@ -1,10 +1,11 @@
 
-# \<Project\>
+# Spades
 ### Software Requirements Specification
    Version 1.0 approved\
-   Prepared by \<author\>\
-   \<organization\>\
-   \<date created\>
+   Prepared by:\
+   DeJon Mitchell and Parrish Hinton\
+   Western Illinois University\
+   10/09/22
 
 ## Table of Contents
 [Revision History](#revision-history)
@@ -50,13 +51,12 @@ Appendix C: [Issues List](#appendix-c-issues-list)
 
 
 ## 1. Introduction
+Invented in the 1930s Spade
+
 
 ### 1.1 Purpose
 
-\<Identify the product whose software requirements are specified in this
-document, including the revision or release number. Describe the scope
-of the product that is covered by this SRS, particularly if this SRS
-describes only part of the system or a single subsystem.\>
+In order to initiate a card game there are multiple steps in the overall procedure beforehand. You must first find four players, which is time consuming going against your time limited window of opportunity to play. Second a pair of standard 52 cards deck is required and oftentimes there is a missing card or the paper cards have deteriorated over time from constant usage and bad card placement. Through “Spades Multi” we provide a realistic card game experience online without having to actually physically come in contact with each player individually or keeping track and taking care of the deck of cards.
 
 ### 1.2 Document Conventions
 
