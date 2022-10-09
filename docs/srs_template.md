@@ -99,14 +99,7 @@ To score points (generally 500). Points are accrued by winning at least the numb
 
 ### 2.1 Product Perspective
 
-\<Describe the context and origin of the product being specified in this
-SRS. For example, state whether this product is a follow-on member of a
-product family, a replacement for certain existing systems, or a new,
-self-contained product. If the SRS defines a component of a larger
-system, relate the requirements of the larger system to the
-functionality of this software and identify interfaces between the two.
-A simple diagram that shows the major components of the overall system,
-subsystem interconnections, and external interfaces can be helpful.\>
+Our product is designed for competitive players and casual players who want to improve on their play style or just have fun. Without the headache of playing the game in real life.
 
 ### 2.2 Product Features
 
