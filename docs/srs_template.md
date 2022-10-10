@@ -72,13 +72,7 @@ The target audience for “Spades multi” is intended for but not limited to lo
 
 ### 1.4 Project Scope
 
-\<Provide a short description of the software being specified and its
-purpose, including relevant benefits, objectives, and goals. Relate the
-software to corporate goals or business strategies. If a separate vision
-and scope document is available, refer to it rather than duplicating its
-contents here. An SRS that specifies the next release of an evolving
-product should contain its own scope statement as a subset of the
-long-term strategic product vision.\>
+The overall scope of project "spades" is to implement a fully functional single/multiplayer spades game with a design in such that an online multiplayer feature will also be compatible. 
 
 ### 1.5 References
 
