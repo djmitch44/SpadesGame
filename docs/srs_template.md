@@ -102,14 +102,10 @@ To score points (generally 500). Points are accrued by winning at least the numb
 Our product is designed for competitive players and casual players who want to improve on their play style or just have fun. Without the headache of playing the game in real life.
 
 ### 2.2 Product Features
+Start - Create teams and starts game\
+Deal - Shuffle cards and deal them\
+Card select - selects the card that user would like to play
 
-\<Summarize the major features the product contains or the significant
-functions that it performs or lets the user perform. Details will be
-provided in Section 3, so only a high level summary is needed here.
-Organize the functions to make them understandable to any reader of the
-SRS. A picture of the major groups of related requirements and how they
-relate, such as a top level data flow diagram or a class diagram, is
-often effective.\>
 
 ### 2.3 User Classes and Characteristics
 
