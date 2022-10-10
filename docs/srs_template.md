@@ -240,12 +240,9 @@ mechanisms.\>
 
 ### 5.2 Safety Requirements
 
-\<Specify those requirements that are concerned with possible loss,
-damage, or harm that could result from the use of the product. Define
-any safeguards or actions that must be taken, as well as actions that
-must be prevented. Refer to any external policies or regulations that
-state safety issues that affect the product's design or use. Define any
-safety certifications that must be satisfied.\>
+User should take mulitple breaks while using program.\
+Consectuive usage may cause addictive symptoms.
+
 
 ### 5.3 Security Requirements
 
