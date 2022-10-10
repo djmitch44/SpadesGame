@@ -51,7 +51,7 @@ Appendix C: [Issues List](#appendix-c-issues-list)
 
 
 ## 1. Introduction
-Invented in the United States in the 1930s, Spades remains one of the most popular trick-taking card games. This game allows players to play with friends or to play alone. The obejct is to take at least the number of tricks(also known as "books") that were bidded before the games begins. In partnership Spades, the bids and tricks taken are combined in totalality of scores to decide a winner.
+Invented in the United States in the 1930s, Spades remains one of the most popular trick-taking card games. With this game you will be able to play with friends or play alone. the obejct is to take at least the number of tricks(also known as "books") that were bidded before the games begins. In partnership Spades, the bids and tricks taken are combined in total scores to decide a winner.
 
 
 ### 1.1 Purpose
@@ -60,7 +60,11 @@ In order to initiate a card game there are multiple steps in the overall procedu
 
 ### 1.2 Document Conventions
 
-A brief overview of the plan for creating this Spades project was to simply construct and enforce the rules of the spades game which players will be bounded by while delivering the spades gameplay experience. The foundation of how this game will be created is critically outlined from each angle steming from the Graphical user interface down to the source code throughout this documentation. 
+\<Describe any standards or typographical conventions that were followed
+when writing this SRS, such as fonts or highlighting that have special
+significance. For example, state whether priorities for higher-level
+requirements are assumed to be inherited by detailed requirements, or
+whether every requirement statement is to have its own priority.\>
 
 ### 1.3 Intended Audience and Reading Suggestions
 
@@ -109,10 +113,9 @@ classes from those who are less important to satisfy.\>
 
 ### 2.4 Operating Environment
 
-\<Describe the environment in which the software will operate, including
-the hardware platform, operating system and versions, and any other
-software components or applications with which it must peacefully
-coexist.\>
+* All data is generated on the loacl computer inside a java session 
+* All data is accessed locally 
+* Countinuous access to teh sazme computer for the duration of a game 
 
 ### 2.5 Design and Implementation Constraints
 
@@ -213,17 +216,11 @@ communication protocols to be used.\>
 
 ### 4.3 Software Interfaces
 
-\<Describe the connections between this product and other specific
-software components (name and version), including databases, operating
-systems, tools, libraries, and integrated commercial components.
-Identify the data items or messages coming into the system and going out
-and describe the purpose of each. Describe the services needed and the
-nature of communications. Refer to documents that describe detailed
-application programming interface protocols. Identify data that will be
-shared across software components. If the data sharing mechanism must be
-implemented in a specific way (for example, use of a global data area in
-a multitasking operating system), specify this as an implementation
-constraint.\>
+Mac OS 10 or greater\
+Windows operating system (Windows 7+)\
+Netbeans\
+Java
+
 
 ### 4.4 Communications Interfaces
 
@@ -239,12 +236,10 @@ mechanisms.\>
 
 ### 5.1 Performance Requirements
 
-\<If there are performance requirements for the product under various
-circumstances, state them here and explain their rationale, to help the
-developers understand the intent and make suitable design choices.
-Specify the timing relationships for real time systems. Make such
-requirements as specific as possible. You may need to state performance
-requirements for individual functional requirements or features.\>
+* PC with windows 7, Windows XP, Mac OS X, or Ubuntu 9.10 installed\
+* 1.6GHz or higher processor 
+* 1 gigbyte or more of memory installed
+* 50 megabytes or more of avalible disk space 
 
 ### 5.2 Safety Requirements
 
@@ -257,12 +252,8 @@ safety certifications that must be satisfied.\>
 
 ### 5.3 Security Requirements
 
-\<Specify any requirements regarding security or privacy issues
-surrounding use of the product or protection of the data used or created
-by the product. Define any user identity authentication requirements.
-Refer to any external policies or regulations containing security issues
-that affect the product. Define any security or privacy certifications
-that must be satisfied.\>
+Our program will not modify or create any files that will be installed on the computer\
+There will be no communication over the internet or local network 
 
 ### 5.4 Software Quality Attributes
 
