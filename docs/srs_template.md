@@ -236,13 +236,7 @@ Java
 
 ### 4.4 Communications Interfaces
 
-\<Describe the requirements associated with any communications functions
-required by this product, including e-mail, web browser, network server
-communications protocols, electronic forms, and so on. Define any
-pertinent message formatting. Identify any communication standards that
-will be used, such as FTP or HTTP. Specify any communication security or
-encryption issues, data transfer rates, and synchronization
-mechanisms.\>
+The local Spades gameplay will not offere any player-to-player or player-to-cpu communication.
 
 ## 5. Other Nonfunctional Requirements
 
@@ -280,10 +274,11 @@ This Program doesnt contain specifics database securence external to the program
 
 ## Appendix A: Glossary
 
-\<Define all the terms necessary to properly interpret the SRS,
-including acronyms and abbreviations. You may wish to build a separate
-glossary that spans multiple projects or the entire organization, and
-just include terms specific to a single project in each SRS.\>
+Graphical User Interface (GIU)
+Input/Output (I/O)
+Java Run-time Envioronment (JRE)
+Players may pass cards in partnership before the start of a hand (Card Passing)
+Software Requirements Specification (SRS) 
 
 ## Appendix B: Analysis Models
 
