@@ -99,13 +99,8 @@ Card select - selects the card that user would like to play
 
 ### 2.3 User Classes and Characteristics
 
-\<Identify the various user classes that you anticipate will use this
-product. User classes may be differentiated based on frequency of use,
-subset of product functions used, technical expertise, security or
-privilege levels, educational level, or experience. Describe the
-pertinent characteristics of each user class. Certain requirements may
-pertain only to certain user classes. Distinguish the favored user
-classes from those who are less important to satisfy.\>
+Active User Classes: Deal, Play Card, Bid (Nil/Blind nil).
+Active Game Class: Start, Shuffle, Score update, Total Score, End round.  
 
 ### 2.4 Operating Environment
 
@@ -115,14 +110,14 @@ classes from those who are less important to satisfy.\>
 
 ### 2.5 Design and Implementation Constraints
 
-\<Describe any items or issues that will limit the options available to
-the developers. These might include: corporate or regulatory policies;
-hardware limitations (timing requirements, memory requirements);
-interfaces to other applications; specific technologies, tools, and
-databases to be used; parallel operations; language requirements;
-communications protocols; security considerations; design conventions or
-programming standards (for example, if the customer's organization will
-be responsible for maintaining the delivered software).\>
+Requires JRE 6.0 or Higher installed on a computer running Spades.
+
+platform Constraint: 
+
+* PC with windows 7, Windows XP, Mac OS X, or Ubuntu 9.10 installed\
+* 1.6GHz or higher processor 
+* 1 gigbyte or more of memory installed
+* 50 megabytes or more of avalible disk space 
 
 ### 2.6 User Documentation
 
@@ -133,15 +128,7 @@ User manual applicants: Parrish Hinton, DeJon Mitchell
 Contact information pj-hinton@wiu.edu, d-mitchell@wiu.edu
 ### 2.7 Assumptions and Dependencies
 
-\<List any assumed factors (as opposed to known facts) that could affect
-the requirements stated in the SRS. These could include third-party or
-commercial components that you plan to use, issues around the
-development or operating environment, or constraints. The project could
-be affected if these assumptions are incorrect, are not shared, or
-change. Also identify any dependencies the project has on external
-factors, such as software components that you intend to reuse from
-another project, unless they are already documented elsewhere (for
-example, in the vision and scope document or the project plan).\>
+No external factor dependacies, no reusage of another project or program, and no 3rd party commercial components will be used.
 
 ## 3. System Features
 
