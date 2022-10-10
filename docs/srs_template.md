@@ -51,7 +51,7 @@ Appendix C: [Issues List](#appendix-c-issues-list)
 
 
 ## 1. Introduction
-Invented in the United States in the 1930s, Spades remains one of the most popular trick-taking card games. With this game you will be able to play with friends or play alone. the obejct is to take at least the number of tricks(also known as "books") that were bidded before the games begins. In partnership Spades, the bids and tricks taken are combined in total scores to decide a winner.
+Invented in the United States in the 1930s, Spades remains one of the most popular trick-taking card games. This game allows players to play with friends or to play alone. The obejct is to take at least the number of tricks(also known as "books") that were bidded before the games begins. In partnership Spades, the bids and tricks taken are combined in totalality of scores to decide a winner.
 
 
 ### 1.1 Purpose
@@ -60,11 +60,7 @@ In order to initiate a card game there are multiple steps in the overall procedu
 
 ### 1.2 Document Conventions
 
-\<Describe any standards or typographical conventions that were followed
-when writing this SRS, such as fonts or highlighting that have special
-significance. For example, state whether priorities for higher-level
-requirements are assumed to be inherited by detailed requirements, or
-whether every requirement statement is to have its own priority.\>
+A brief overview of the plan for creating this Spades project was to simply construct and enforce the rules of the spades game which players will be bounded by while delivering the spades gameplay experience. The foundation of how this game will be created is critically outlined from each angle steming from the Graphical user interface down to the source code throughout this documentation. 
 
 ### 1.3 Intended Audience and Reading Suggestions
 
@@ -217,11 +213,17 @@ communication protocols to be used.\>
 
 ### 4.3 Software Interfaces
 
-Mac OS 10 or greater\
-Windows operating system (Windows 7+)\
-Netbeans\
-Java
-
+\<Describe the connections between this product and other specific
+software components (name and version), including databases, operating
+systems, tools, libraries, and integrated commercial components.
+Identify the data items or messages coming into the system and going out
+and describe the purpose of each. Describe the services needed and the
+nature of communications. Refer to documents that describe detailed
+application programming interface protocols. Identify data that will be
+shared across software components. If the data sharing mechanism must be
+implemented in a specific way (for example, use of a global data area in
+a multitasking operating system), specify this as an implementation
+constraint.\>
 
 ### 4.4 Communications Interfaces
 
