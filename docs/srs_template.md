@@ -99,8 +99,13 @@ Card select - selects the card that user would like to play
 
 ### 2.3 User Classes and Characteristics
 
-regular users - will have access to all fucntions that will allow them to play the game 
-
+\<Identify the various user classes that you anticipate will use this
+product. User classes may be differentiated based on frequency of use,
+subset of product functions used, technical expertise, security or
+privilege levels, educational level, or experience. Describe the
+pertinent characteristics of each user class. Certain requirements may
+pertain only to certain user classes. Distinguish the favored user
+classes from those who are less important to satisfy.\>
 
 ### 2.4 Operating Environment
 
@@ -121,10 +126,11 @@ be responsible for maintaining the delivered software).\>
 
 ### 2.6 User Documentation
 
-\<List the user documentation components (such as user manuals, on-line
-help, and tutorials) that will be delivered along with the software.
-Identify any known user documentation delivery formats or standards.\>
+(Example user Manual) Disclaimer: Do not own copyrights | Intended for display purposes ONLY!
+http://cab.spbu.ru/files/release3.13.0/manual.html 
 
+User manual applicants: Parrish Hinton, DeJon Mitchell 
+Contact information pj-hinton@wiu.edu, d-mitchell@wiu.edu
 ### 2.7 Assumptions and Dependencies
 
 \<List any assumed factors (as opposed to known facts) that could affect
