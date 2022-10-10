@@ -126,7 +126,7 @@ be responsible for maintaining the delivered software).\>
 
 ### 2.6 User Documentation
 
-(Example user Manual) Disclaimer: Do not own copyrights | Intended for display purposes ONLY!
+(Example user Manual) Disclaimer: Do not own copyrights | Intended for example display purposes ONLY!
 http://cab.spbu.ru/files/release3.13.0/manual.html 
 
 User manual applicants: Parrish Hinton, DeJon Mitchell 
@@ -265,10 +265,7 @@ use over ease of learning.\>
 
 ## 6. Other Requirements
 
-\<Define any other requirements not covered elsewhere in the SRS. This
-might include database requirements, internationalization requirements,
-legal requirements, reuse objectives for the project, and so on. Add any
-new sections that are pertinent to the project.\>
+This Program doesnt contain specifics database securence external to the program but recyclaility within the code is general foundation of the programs database alongside with proper code wash and cleansing before reaching the database. 
 
 ## Appendix A: Glossary
 
