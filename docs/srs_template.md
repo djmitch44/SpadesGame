@@ -145,50 +145,65 @@ example, in the vision and scope document or the project plan).\>
 
 ## 3. System Features
 
-\<This template illustrates organizing the functional requirements for
-the product by system features, the major services provided by the
-product. You may prefer to organize this section by use case, mode of
-operation, user class, object class, functional hierarchy, or
-combinations of these, whatever makes the most logical sense for your
-product.\>
+* Deal 
+* Bid
+* Play Card 
 
-### 3.1. System Feature 1
 
-\<Don't really say "System Feature 1." State the feature name in just a
-few words.\>
+### 3.1. Deal
+
+Deal class - will shuffle cards and deal them to each player 
 
 #### 3.1.1 Description and Priority
 
-\<Provide a short description of the feature and indicate whether it is
-of High, Medium, or Low priority. You could also include specific
-priority component ratings, such as benefit, penalty, cost, and risk
-(each rated on a relative scale from a low of 1 to a high of 9).\>
+Deal class is high priority and will shuffle and deal cards to all players without deal class there will be no start to the game  
 
 #### 3.1.2 Stimulus/Response Sequences
 
-\<List the sequences of user actions and system responses that stimulate
-the behavior defined for this feature. These will correspond to the
-dialog elements associated with use cases.\>
+the user will simply press deal button and the game will start 
 
 #### 3.1.3 Functional Requirements
 
-\<Itemize the detailed functional requirements associated with this
-feature. These are the software capabilities that must be present in
-order for the user to carry out the services provided by the feature, or
-to execute the use case. Include how the product should respond to
-anticipated error conditions or invalid inputs. Requirements should be
-concise, complete, unambiguous, verifiable, and necessary. Use "TBD" as
-a placeholder to indicate when necessary information is not yet
-available.\>
+REQ-1:user must press buttton 
 
-\<Each requirement should be uniquely identified with a sequence number
-or a meaningful tag of some kind.\>
+REQ-2:round must be at a end
 
-REQ-1:
+REQ-3: leader must be chosen 
 
-REQ-2:
+### 3.2 Bid
+Bid class - will allow user to bid how many books they will win 
 
-### 3.2 System Feature 2 (and so on)
+#### 3.2.1 Description and Priority
+
+Bid class is high priority and will allow for teh score of the game to be updated
+
+#### 3.2.2 Stimulus/Response Sequences
+
+the user will simply press blind nil or see cards and then choose a number of books they believe that they will win 
+
+#### 3.2.3 Functional Requirements
+
+REQ-1:user must press buttton 
+
+REQ-2:round must be at the start 
+
+### 3.3 play card
+play card class - will allow user to select whic card they will liek ot play 
+
+#### 3.2.1 Description and Priority
+
+play card class is high priority becuase the users will play cards and then the score will be updated after every player plays a card 
+
+#### 3.2.2 Stimulus/Response Sequences
+
+the user will simply press teh crad they will like to play 
+
+#### 3.2.3 Functional Requirements
+
+REQ-1:user must press buttton 
+
+REQ-2:round must be users turn 
+
 
 ## 4. External Interface Requirements
 
@@ -251,14 +266,13 @@ There will be no communication over the internet or local network
 
 ### 5.4 Software Quality Attributes
 
-\<Specify any additional quality characteristics for the product that
-will be important to either the customers or the developers. Some to
-consider are: adaptability, availability, correctness, flexibility,
-interoperability, maintainability, portability, reliability,
-reusability, robustness, testability, and usability. Write these to be
-specific, quantitative, and verifiable when possible. At the least,
-clarify the relative preferences for various attributes, such as ease of
-use over ease of learning.\>
+* Accessibility
+* accuracy
+* mobility
+* precison
+* producibility
+* responsive 
+* stability
 
 ## 6. Other Requirements
 
