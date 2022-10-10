@@ -99,13 +99,8 @@ Card select - selects the card that user would like to play
 
 ### 2.3 User Classes and Characteristics
 
-\<Identify the various user classes that you anticipate will use this
-product. User classes may be differentiated based on frequency of use,
-subset of product functions used, technical expertise, security or
-privilege levels, educational level, or experience. Describe the
-pertinent characteristics of each user class. Certain requirements may
-pertain only to certain user classes. Distinguish the favored user
-classes from those who are less important to satisfy.\>
+regular users - will have access to all fucntions that will allow them to play the game 
+
 
 ### 2.4 Operating Environment
 
