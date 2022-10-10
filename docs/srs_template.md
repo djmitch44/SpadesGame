@@ -217,17 +217,10 @@ communication protocols to be used.\>
 
 ### 4.3 Software Interfaces
 
-\<Describe the connections between this product and other specific
-software components (name and version), including databases, operating
-systems, tools, libraries, and integrated commercial components.
-Identify the data items or messages coming into the system and going out
-and describe the purpose of each. Describe the services needed and the
-nature of communications. Refer to documents that describe detailed
-application programming interface protocols. Identify data that will be
-shared across software components. If the data sharing mechanism must be
-implemented in a specific way (for example, use of a global data area in
-a multitasking operating system), specify this as an implementation
-constraint.\>
+Mac OS 10 or greater
+Windows operating system (Windows 7+) Netbeans
+Java
+
 
 ### 4.4 Communications Interfaces
 
