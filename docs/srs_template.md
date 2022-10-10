@@ -60,11 +60,7 @@ In order to initiate a card game there are multiple steps in the overall procedu
 
 ### 1.2 Document Conventions
 
-\<Describe any standards or typographical conventions that were followed
-when writing this SRS, such as fonts or highlighting that have special
-significance. For example, state whether priorities for higher-level
-requirements are assumed to be inherited by detailed requirements, or
-whether every requirement statement is to have its own priority.\>
+A brief overview of the plan for creating this Spades project was to simply construct and enforce the rules of the spades game which players will be bounded by while delivering the spades gameplay experience. The foundation of how this game will be created is critically outlined from each angle steming from the Graphical user interface down to the source code throughout this documentation.
 
 ### 1.3 Intended Audience and Reading Suggestions
 
