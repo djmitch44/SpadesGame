@@ -217,8 +217,9 @@ communication protocols to be used.\>
 
 ### 4.3 Software Interfaces
 
-Mac OS 10 or greater
-Windows operating system (Windows 7+) Netbeans
+Mac OS 10 or greater\
+Windows operating system (Windows 7+)\
+Netbeans\
 Java
 
 
