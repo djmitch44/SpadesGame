@@ -53,7 +53,6 @@ Appendix C: [Issues List](#appendix-c-issues-list)
 ## 1. Introduction
 Invented in the United States in the 1930s, Spades remains one of the most popular trick-taking card games. With this game you will be able to play with friends or play alone. the obejct is to take at least the number of tricks(also known as "books") that were bidded before the games begins. In partnership Spades, the bids and tricks taken are combined in total scores to decide a winner.
 
-
 ### 1.1 Purpose
 
 In order to initiate a card game there are multiple steps in the overall procedure beforehand. You must first find four players, which is time consuming going against your time limited window of opportunity to play. Second a pair of standard 52 cards deck is required and oftentimes there is a missing card or the paper cards have deteriorated over time from constant usage and bad card placement. Through “Spades Multi” we provide a realistic card game experience online without having to actually physically come in contact with each player individually or keeping track and taking care of the deck of cards.
@@ -76,6 +75,7 @@ The overall scope of project "spades" is to implement a fully functional single/
 2) www.w3schools.com
 
 ## 2. Overall Description
+
 Number of players\
 Two or more; the game is most commonly played with four players in pairs ("Partnership spades")\
 The deck\
@@ -92,10 +92,10 @@ To score points (generally 500). Points are accrued by winning at least the numb
 Our product is designed for competitive players and casual players who want to improve on their play style or just have fun. Without the headache of playing the game in real life.
 
 ### 2.2 Product Features
+
 Start - Create teams and starts game\
 Deal - Shuffle cards and deal them\
 Card select - selects the card that user would like to play
-
 
 ### 2.3 User Classes and Characteristics
 
@@ -136,7 +136,6 @@ No external factor dependacies, no reusage of another project or program, and no
 * Bid
 * Play Card 
 
-
 ### 3.1. Deal
 
 Deal class - will shuffle cards and deal them to each player 
@@ -158,6 +157,7 @@ REQ-2:round must be at a end
 REQ-3: leader must be chosen 
 
 ### 3.2 Bid
+
 Bid class - will allow user to bid how many books they will win 
 
 #### 3.2.1 Description and Priority
@@ -175,6 +175,7 @@ REQ-1:user must press buttton
 REQ-2:round must be at the start 
 
 ### 3.3 play card
+
 play card class - will allow user to select whic card they will liek ot play 
 
 #### 3.2.1 Description and Priority
@@ -191,27 +192,16 @@ REQ-1:user must press buttton
 
 REQ-2:round must be users turn 
 
-
 ## 4. External Interface Requirements
 
 ### 4.1 User Interfaces
 
-\<Describe the logical characteristics of each interface between the
-software product and the users. This may include sample screen images,
-any GUI standards or product family style guides that are to be
-followed, screen layout constraints, standard buttons and functions
-(e.g., help) that will appear on every screen, keyboard shortcuts, error
-message display standards, and so on. Define the software components for
-which a user interface is needed. Details of the user interface design
-should be documented in a separate user interface specification.\>
+The Graphic User Interface within the Spades software has a start prompt screen which operates and initiates through mouse click progressing to the spades play screen where the game is began and orchastrated also through mouse click.
 
 ### 4.2 Hardware Interfaces
 
-\<Describe the logical and physical characteristics of each interface
-between the software product and the hardware components of the system.
-This may include the supported device types, the nature of the data and
-control interactions between the software and the hardware, and
-communication protocols to be used.\>
+* Mouse and Keyboard I/O
+- Mouse and Keyboard are the primary peripherial hardware components for user interaction within the systems software.  
 
 ### 4.3 Software Interfaces
 
@@ -219,7 +209,6 @@ Mac OS 10 or greater\
 Windows operating system (Windows 7+)\
 Netbeans\
 Java
-
 
 ### 4.4 Communications Interfaces
 
@@ -238,7 +227,6 @@ The local Spades gameplay will not offere any player-to-player or player-to-cpu 
 
 User should take mulitple breaks while using program.\
 Consectuive usage may cause addictive symptoms.
-
 
 ### 5.3 Security Requirements
 
@@ -269,12 +257,10 @@ Software Requirements Specification (SRS)
 
 ## Appendix B: Analysis Models
 
-\<Optionally, include any pertinent analysis models, such as data flow
-diagrams, class diagrams, state-transition diagrams, or
-entity-relationship diagrams.\>
+| Model/Diagram in parent folder |
 
 ## Appendix C: Issues List
 
-\< This is a dynamic list of the open requirements issues that remain to
-be resolved, including TBDs, pending decisions, information that is
-needed, conflicts awaiting resolution, and the like.\>
+* Graphic User Interface
+* Code Implementation
+* Infrastructure
