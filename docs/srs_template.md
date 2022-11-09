@@ -1,7 +1,7 @@
 
 # Spades Multi 
 ### Software Requirements Specification
-   Version 1.0 approved\
+   Version 1.1 approved\
    Prepared by:\
    DeJon Mitchell and Parrish Hinton\
    Western Illinois University\
@@ -162,7 +162,7 @@ Bid class - will allow user to bid how many books they will win
 
 #### 3.2.1 Description and Priority
 
-Bid class is high priority and will allow for teh score of the game to be updated
+Bid class is high priority and will allow for the score of the game to be updated
 
 #### 3.2.2 Stimulus/Response Sequences
 
@@ -184,7 +184,7 @@ play card class is high priority becuase the users will play cards and then the 
 
 #### 3.2.2 Stimulus/Response Sequences
 
-the user will simply press teh crad they will like to play 
+the user will simply press the card they will like to play 
 
 #### 3.2.3 Functional Requirements
 
@@ -212,7 +212,7 @@ Java
 
 ### 4.4 Communications Interfaces
 
-The local Spades gameplay will not offere any player-to-player or player-to-cpu communication.
+The local Spades gameplay will not offer any player-to-player or player-to-cpu communication.
 
 ## 5. Other Nonfunctional Requirements
 
@@ -245,7 +245,7 @@ There will be no communication over the internet or local network
 
 ## 6. Other Requirements
 
-This Program doesnt contain specifics database securence external to the program but recyclaility within the code is general foundation of the programs database alongside with proper code wash and cleansing before reaching the database. 
+This Program doesn't contain specifics database securence external to the program but recyclaility within the code is general foundation of the programs database alongside with proper code wash and cleansing before reaching the database. 
 
 ## Appendix A: Glossary
 
