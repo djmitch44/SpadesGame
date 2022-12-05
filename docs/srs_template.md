@@ -265,7 +265,7 @@ Software Requirements Specification (SRS)
 
 ![image 3](https://github.com/djmitch44/SpadesGame/blob/main/docs/Lab_5%20(1).jpg?raw=true)
 
-![image 4]((https://github.com/djmitch44/SpadesGame/blob/main/docs/Lab7%20S%20Diagram.png?raw=true))
+![image 4](https://github.com/djmitch44/SpadesGame/blob/main/docs/Lab7%20S%20Diagram.png?raw=true))
 
 
 ## Appendix C: Issues List
