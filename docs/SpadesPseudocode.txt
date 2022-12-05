@@ -1,0 +1,34 @@
+Pseudo-Code Example
+Spades game (main method):
+    
+    Create game
+    while (totalScore().compareTo(maxScore) !== 0){
+        print the game state (totalScore()) then:
+
+        Deal(), playerBid(), playerTurn().
+Until:  totalScore() is reached
+    Once reached
+    - print an announcement that the game was won
+
+set up the game:
+
+    create Deck arrays foundation[0..52]
+    Deck
+    create a new, full 52-card deck d 
+    Create 4 individual player hands with cards from Deck array in scrambled distributuion
+
+test if the game has been won:
+
+    initialize totalScore() to 0
+    for each playerScore() add to totalScore of each team
+    test is totalScore() == setTotalScore() 
+
+print the game status (playerScore(), totalScore() ):
+
+    print "playerScore (???)  "
+    for each hand() h
+        if totalScore is not reached then print " totalscore "
+            endHand():
+Repeat!
+        
+        otherwise print " winning team "+ players()
