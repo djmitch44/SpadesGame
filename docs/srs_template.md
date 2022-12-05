@@ -261,11 +261,11 @@ Software Requirements Specification (SRS)
 
 ![image1](https://github.com/djmitch44/SpadesGame/blob/main/docs/UML%20ClassDiagram.drawio%20(1).png?raw=true)
 
-![image 2]([https://github.com/djmitch44/SpadesGame/blob/main/docs/UML%20ClassDiagram.drawio%20(1).png?raw=true](https://github.com/djmitch44/SpadesGame/blob/main/docs/Screen%20Shot%202022-10-09%20at%2010.55.38%20PM.png?raw=true))
+![image 2](https://github.com/djmitch44/SpadesGame/blob/main/docs/Screen%20Shot%202022-10-09%20at%2010.55.38%20PM.png?raw=true)
 
 ![image 3](https://github.com/djmitch44/SpadesGame/blob/main/docs/Lab_5%20(1).jpg?raw=true)
 
-![image 4]([https://github.com/djmitch44/SpadesGame/blob/main/docs/Lab_5%20(1).jpg?raw=true](https://github.com/djmitch44/SpadesGame/blob/main/docs/Lab7%20S%20Diagram.png?raw=true))
+![image 4]((https://github.com/djmitch44/SpadesGame/blob/main/docs/Lab7%20S%20Diagram.png?raw=true))
 
 
 ## Appendix C: Issues List
