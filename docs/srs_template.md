@@ -256,9 +256,6 @@ Players may pass cards in partnership before the start of a hand (Card Passing)
 Software Requirements Specification (SRS) 
 
 ## Appendix B: Analysis Models
-
-| Model/Diagram in parent folder |
-
 ![image1](https://github.com/djmitch44/SpadesGame/blob/main/docs/UML%20ClassDiagram.drawio%20(1).png?raw=true)
 
 ![image 2](https://github.com/djmitch44/SpadesGame/blob/main/docs/Screen%20Shot%202022-10-09%20at%2010.55.38%20PM.png?raw=true)
