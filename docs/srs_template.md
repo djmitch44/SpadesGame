@@ -260,7 +260,7 @@ Software Requirements Specification (SRS)
 
 ![image 2](https://github.com/djmitch44/SpadesGame/blob/main/docs/Screen%20Shot%202022-10-09%20at%2010.55.38%20PM.png?raw=true)
 
-![image 3](https://github.com/djmitch44/SpadesGame/blob/main/docs/Lab_5%20(1).jpg?raw=true)
+![lab5-use-case-diag drawio](https://user-images.githubusercontent.com/55515486/205562848-91f5d2aa-b56d-467e-9810-c45cf9d8a7c7.png)
 
 ![image 4](https://github.com/djmitch44/SpadesGame/blob/main/docs/Lab7%20S%20Diagram.png?raw=true)
 
