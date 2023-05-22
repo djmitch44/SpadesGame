@@ -25,23 +25,23 @@ for users access to the card game electronically. The importance of this program
 
 * Main
 
-- Acts as the main class which runs the Spades game.
+-Acts as the main class which runs the Spades game.
 
 * Deck
 
-- A class Strickly used to act as a physical card deck which can perform various action on the cards.
+-A class Strickly used to act as a physical card deck which can perform various action on the cards.
 
 * Card
 
-- A class that creates 52 cards Ace-King in a suit/hierchy structure taken from the deck.
+-A class that creates 52 cards Ace-King in a suit/hierchy structure taken from the deck.
 
 * Player
 
-- A class that creates 3 cpu players along side the user totaling in 4 players.
+-A class that creates 3 cpu players along side the user totaling in 4 players.
 
 * Game 
 
-- This class initiates and regulates the Spades card game. The score and rules are structured in this class. Each class outside of the game class has a instance of that object type created within the game class such that other classes (listed above) components can be used.
+-This class initiates and regulates the Spades card game. The score and rules are structured in this class. Each class outside of the game class has a instance of that object type created within the game class such that other classes (listed above) components can be used.
 
 ## SCREENSHOT
 
