@@ -1,5 +1,5 @@
 
-# Spades Multi 
+# SpadesAI 
 ### Software Requirements Specification
    Version 1.1 approved\
    Prepared by:\
@@ -55,7 +55,7 @@ Invented in the United States in the 1930s, Spades remains one of the most popul
 
 ### 1.1 Purpose
 
-In order to initiate a card game there are multiple steps in the overall procedure beforehand. You must first find four players, which is time consuming going against your time limited window of opportunity to play. Second a pair of standard 52 cards deck is required and oftentimes there is a missing card or the paper cards have deteriorated over time from constant usage and bad card placement. Through “Spades Multi” we provide a realistic card game experience online without having to actually physically come in contact with each player individually or keeping track and taking care of the deck of cards.
+In order to initiate a card game there are multiple steps in the overall procedure beforehand. You must first find four players, which is time consuming going against your time limited window of opportunity to play. Second a pair of standard 52 cards deck is required and oftentimes there is a missing card or the paper cards have deteriorated over time from constant usage and bad card placement. Through “SpadesAI” we provide a realistic card game experience online without having to physically come in contact with each player or keep track and take care of a deck of cards.
 
 ### 1.2 Document Conventions
 
@@ -63,7 +63,7 @@ A brief overview of the plan for creating this Spades project was to simply cons
 
 ### 1.3 Intended Audience and Reading Suggestions
 
-The target audience for “Spades multi” is intended for but not limited to low-to-upper class consumers whose age range from (13+)
+The target audience for “SpadesAI” is intended for but not limited to low-to-upper class consumers whose age range from (13+)
 
 ### 1.4 Project Scope
 
@@ -95,7 +95,7 @@ Our product is designed for competitive players and casual players who want to i
 
 Start - Create teams and starts game\
 Deal - Shuffle cards and deal them\
-Card select - selects the card that user would like to play
+Card select - selects the card that user would like to play\
 
 ### 2.3 User Classes and Characteristics
 
