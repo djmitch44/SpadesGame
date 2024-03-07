@@ -2,7 +2,7 @@
 
 **Spades**
 
-This program is a implementation of the popular U.S. spades game.
+This program is a implementation of the popular card game "Spades". 
 
 ## AUTHOR
 
