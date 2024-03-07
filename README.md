@@ -7,6 +7,9 @@ This program is a implementation of the popular U.S. spades game.
 ## AUTHOR
 
 **Parrish Hinton**
+** Dejon Mitchell**
+
+* Email: Pj-hinton@wiu.edu
 * Email: D-mitchell@wiu.edu
 
 ## USAGE
